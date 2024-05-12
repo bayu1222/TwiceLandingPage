@@ -19,7 +19,7 @@ let id = 0;
 
 const images = [
   './assets/sana.jpg',
-  './assets/jihoy.jpeg',
+  './assets/jihyo.jpg',
   './assets/mina.jpg',
   './assets/cuwi.jpg',
 ];
