@@ -18,7 +18,7 @@ const rs = getComputedStyle(r);
 let id = 0;
 
 const images = [
-  './assets/jihyoo.jpeg',
+  './assets/sana.jpg',
   './assets/jihoy.jpeg',
   './assets/mina.jpg',
   './assets/cuwi.jpg',
