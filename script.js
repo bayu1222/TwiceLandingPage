@@ -20,7 +20,7 @@ let id = 0;
 const images = [
   './assets/jihyoo.jpeg',
   './assets/jihoy.jpeg',
-  './assets/mina.png',
+  './assets/mina.jpg',
   './assets/cuwi.jpg',
 ];
 
